@@ -1,0 +1,13 @@
+h2 {
+  color: tomato;
+}
+
+p {
+  font-size: 40px;
+}
+
+a {
+  display: block;
+  padding: 20px;
+  background-color: tan;
+}
